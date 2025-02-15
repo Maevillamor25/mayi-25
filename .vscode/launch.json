@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/emaxx/Documents/GitHub/mayi-25",
-      "program": "c:/Users/emaxx/Documents/GitHub/mayi-25/build/Debug/outDebug",
+      "cwd": "c:/Users/emaxx/Downloads",
+      "program": "c:/Users/emaxx/Downloads/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
